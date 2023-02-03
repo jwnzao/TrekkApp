@@ -1,0 +1,7 @@
+{
+  "name": "Trekk_App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
