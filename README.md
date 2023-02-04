@@ -1,2 +1,21 @@
 # TrekkApp
 VueJS Ionic
+
+Welcome to this rekk_App project 
+
+First : visit this link -> https://ionicframework.com/docs/vue/overview
+
+The tools line code required for this project :
+     npm install -g @ionic/cli
+
+The line code to create the application is : 
+    ionic start Trekk_App tabs --type vue
+
+Next we'll need to install the necessary Capacitor plugins to make the app's native functionality work:
+
+    npm install @capacitor/camera @capacitor/preferences @capacitor/filesystem
+
+Follow the link to documentation to install the necessary PWA Elements​:
+    https://ionicframework.com/docs/vue/your-first-app
+    
+git commands: https://www.hostinger.fr/tutoriels/commandes-git
