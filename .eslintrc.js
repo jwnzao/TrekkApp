@@ -16,6 +16,8 @@ module.exports = {
     'no-debugger': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
     'vue/no-deprecated-slot-attribute': 'off',
     '@typescript-eslint/no-explicit-any': 'off',
+    // eslint-disable-next-line no-dupe-keys
+    'vue/no-deprecated-slot-attribute': 'off',
   },
   overrides: [
     {
